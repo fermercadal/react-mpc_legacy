@@ -79,6 +79,7 @@ class App extends Component {
 
   playKey(padKey) {
     let audio = document.getElementById(padKey);
+    audio.currentTime = 0;
     audio.play();
 
     this.updateDisplay(padKey);
