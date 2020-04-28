@@ -1,22 +1,30 @@
 {
   "files": {
     "main.css": "/react-mpc/static/css/main.fc9e26a5.chunk.css",
-    "main.js": "/react-mpc/static/js/main.7263a7d0.chunk.js",
-    "main.js.map": "/react-mpc/static/js/main.7263a7d0.chunk.js.map",
+    "main.js": "/react-mpc/static/js/main.d53f708f.chunk.js",
+    "main.js.map": "/react-mpc/static/js/main.d53f708f.chunk.js.map",
     "runtime-main.js": "/react-mpc/static/js/runtime-main.b3091a00.js",
     "runtime-main.js.map": "/react-mpc/static/js/runtime-main.b3091a00.js.map",
-    "static/js/2.edd1bae5.chunk.js": "/react-mpc/static/js/2.edd1bae5.chunk.js",
-    "static/js/2.edd1bae5.chunk.js.map": "/react-mpc/static/js/2.edd1bae5.chunk.js.map",
+    "static/js/2.6bb05128.chunk.js": "/react-mpc/static/js/2.6bb05128.chunk.js",
+    "static/js/2.6bb05128.chunk.js.map": "/react-mpc/static/js/2.6bb05128.chunk.js.map",
     "index.html": "/react-mpc/index.html",
-    "precache-manifest.7b38e1be8f340ec73b4ac0dc997d9a93.js": "/react-mpc/precache-manifest.7b38e1be8f340ec73b4ac0dc997d9a93.js",
+    "precache-manifest.16b76356d733af994c6e9f4c3efd5458.js": "/react-mpc/precache-manifest.16b76356d733af994c6e9f4c3efd5458.js",
     "service-worker.js": "/react-mpc/service-worker.js",
     "static/css/main.fc9e26a5.chunk.css.map": "/react-mpc/static/css/main.fc9e26a5.chunk.css.map",
-    "static/media/clap.mp3": "/react-mpc/static/media/clap.90e5916b.mp3"
+    "static/media/hihat-close.mp3": "/react-mpc/static/media/hihat-close.1d55920d.mp3",
+    "static/media/hihat-open.mp3": "/react-mpc/static/media/hihat-open.69cccb3e.mp3",
+    "static/media/hit-1.mp3": "/react-mpc/static/media/hit-1.dac059d5.mp3",
+    "static/media/hit-2.mp3": "/react-mpc/static/media/hit-2.69fc0a5d.mp3",
+    "static/media/kick-1.mp3": "/react-mpc/static/media/kick-1.cc761da2.mp3",
+    "static/media/kick-2.mp3": "/react-mpc/static/media/kick-2.77b36c98.mp3",
+    "static/media/snare-1.mp3": "/react-mpc/static/media/snare-1.1c01e90f.mp3",
+    "static/media/snare-2.mp3": "/react-mpc/static/media/snare-2.e9f80a76.mp3",
+    "static/media/trumpet.mp3": "/react-mpc/static/media/trumpet.a3c6c90d.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.b3091a00.js",
-    "static/js/2.edd1bae5.chunk.js",
+    "static/js/2.6bb05128.chunk.js",
     "static/css/main.fc9e26a5.chunk.css",
-    "static/js/main.7263a7d0.chunk.js"
+    "static/js/main.d53f708f.chunk.js"
   ]
 }
