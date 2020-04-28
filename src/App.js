@@ -1,7 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import clap from "./Sounds/clap.mp3";
+import kick1 from "./Sounds/kick-1.mp3";
+import kick2 from "./Sounds/kick-2.mp3";
+import snare1 from "./Sounds/snare-1.mp3";
+import snare2 from "./Sounds/snare-2.mp3";
+import ch from "./Sounds/hihat-close.mp3";
+import oh from "./Sounds/hihat-open.mp3";
+import hit1 from "./Sounds/hit-1.mp3";
+import hit2 from "./Sounds/hit-2.mp3";
+import trumpet from "./Sounds/trumpet.mp3";
 
 import Pad from './Components/Pad';
 import Display from './Components/Display';
@@ -14,48 +22,48 @@ class App extends Component {
       padsKit: [
         {
           padKey: 'Q',
-          padName: 'The Q sound',
-          padSound: clap
+          padName: 'Hit A',
+          padSound: hit1
         },
         {
           padKey: 'W',
-          padName: 'The W sound',
-          padSound: clap
+          padName: 'Hit B',
+          padSound: hit2
         },
         {
           padKey: 'E',
-          padName: 'The R sound',
-          padSound: clap
+          padName: 'Trumpet',
+          padSound: trumpet
         },
         {
           padKey: 'A',
-          padName: 'The A sound',
-          padSound: clap
+          padName: 'Snare A',
+          padSound: snare1
         },
         {
           padKey: 'S',
-          padName: 'The S sound',
-          padSound: clap
+          padName: 'Snare B',
+          padSound: snare2
         },
         {
           padKey: 'D',
-          padName: 'The D sound',
-          padSound: clap
+          padName: 'Open HiHat',
+          padSound: oh
         },
         {
           padKey: 'Z',
-          padName: 'The Z sound',
-          padSound: clap
+          padName: 'Kick A',
+          padSound: kick1
         },
         {
           padKey: 'X',
-          padName: 'The X sound',
-          padSound: clap
+          padName: 'Kick B',
+          padSound: kick2
         },
         {
           padKey: 'C',
-          padName: 'The C sound',
-          padSound: clap
+          padName: 'Close HiHat',
+          padSound: ch
         },
       ]
     };
