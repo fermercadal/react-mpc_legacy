@@ -111,7 +111,10 @@ class App extends Component {
     return (
       <main id="drum-machine" className="mpc">
         <Display value={this.state.playedSound} />
+
+        <section class="pads">
         { padsKit }
+        </section>
       </main>
     );
   }
