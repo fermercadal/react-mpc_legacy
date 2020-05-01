@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-mpc/static/css/main.2bde1d05.chunk.css",
+    "main.css": "/react-mpc/static/css/main.85002405.chunk.css",
     "main.js": "/react-mpc/static/js/main.1f1e1bb1.chunk.js",
     "main.js.map": "/react-mpc/static/js/main.1f1e1bb1.chunk.js.map",
     "runtime-main.js": "/react-mpc/static/js/runtime-main.b3091a00.js",
@@ -8,9 +8,9 @@
     "static/js/2.6bb05128.chunk.js": "/react-mpc/static/js/2.6bb05128.chunk.js",
     "static/js/2.6bb05128.chunk.js.map": "/react-mpc/static/js/2.6bb05128.chunk.js.map",
     "index.html": "/react-mpc/index.html",
-    "precache-manifest.30b76faa216bed8f0a684bb1c2fc42e5.js": "/react-mpc/precache-manifest.30b76faa216bed8f0a684bb1c2fc42e5.js",
+    "precache-manifest.f1743ddf34ab6659ef13515123208fdf.js": "/react-mpc/precache-manifest.f1743ddf34ab6659ef13515123208fdf.js",
     "service-worker.js": "/react-mpc/service-worker.js",
-    "static/css/main.2bde1d05.chunk.css.map": "/react-mpc/static/css/main.2bde1d05.chunk.css.map",
+    "static/css/main.85002405.chunk.css.map": "/react-mpc/static/css/main.85002405.chunk.css.map",
     "static/media/hihat-close.mp3": "/react-mpc/static/media/hihat-close.1d55920d.mp3",
     "static/media/hihat-open.mp3": "/react-mpc/static/media/hihat-open.69cccb3e.mp3",
     "static/media/hit-1.mp3": "/react-mpc/static/media/hit-1.dac059d5.mp3",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.b3091a00.js",
     "static/js/2.6bb05128.chunk.js",
-    "static/css/main.2bde1d05.chunk.css",
+    "static/css/main.85002405.chunk.css",
     "static/js/main.1f1e1bb1.chunk.js"
   ]
 }
