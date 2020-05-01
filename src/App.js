@@ -86,11 +86,17 @@ class App extends Component {
   }
 
   playKey(padKey) {
+    let button = document.getElementById('drum-pad-' + padKey);
     let audio = document.getElementById(padKey);
     audio.currentTime = 0;
     audio.play();
 
     this.updateDisplay(padKey);
+    button.classList.add("active");
+    setTimeout(() => { 
+      button.classList.remove("active");
+    }, 100);
+
   }
 
   updateDisplay(padKey) {
@@ -112,7 +118,7 @@ class App extends Component {
       <main id="drum-machine" className="mpc">
         <Display value={this.state.playedSound} />
 
-        <section class="pads">
+        <section className="pads">
         { padsKit }
         </section>
       </main>
