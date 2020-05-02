@@ -122,6 +122,7 @@ class App extends Component {
         <section className="pads">
         { padsKit }
         </section>
+        <small><a href="https://en.wikipedia.org/wiki/Akai_MPC" target="_blank">+ info about AKAI MPC</a></small>
       </main>
     );
   }

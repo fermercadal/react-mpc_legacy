@@ -1,7 +1,7 @@
 #root {
   align-items: center;
   background-color: #eeefdB;
-  background: radial-gradient(circle, #eeefdB 50%, #c6c7b3 100%);
+  background: radial-gradient(circle, #eeefdB 50%, #c6c7b3 80%);
   display: flex;
   flex-flow: column nowrap;
   height: 100%;
@@ -22,8 +22,8 @@ h1 span {
 .mpc {
   display: flex;
   flex-flow: column wrap;
-  height: 600px;
-  max-height: 60%;
+  height: 650px;
+  max-height: 70%;
   max-width: 90%;
   width: 500px;
 }
@@ -109,4 +109,10 @@ h1 span {
   font-size: 1.2em;
   left: 10px;
   position: absolute;
+}
+
+small a {
+  color:#43454d;
+  display: block;
+  padding-top: 12px;
 }
