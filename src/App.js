@@ -116,6 +116,7 @@ class App extends Component {
 
     return (
       <main id="drum-machine" className="mpc">
+        <h1><span>React</span> MPC-2020 JS</h1>
         <Display value={this.state.playedSound} />
 
         <section className="pads">

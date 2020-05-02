@@ -9,16 +9,26 @@
   width: 100%;
 }
 
+h1 {
+  color: #43454d;
+  font-size: 1.6em;
+}
+
+h1 span {
+  color: #e30b16;
+  font-family: 'Bree Serif';
+}
+
 .mpc {
   display: flex;
   flex-flow: column wrap;
-  height: 500px;
+  height: 600px;
   max-height: 60%;
   max-width: 90%;
   width: 500px;
 }
 
-@media (orientation: landscape) {
+@media (orientation: landscape) and (max-width: 768px) {
   .mpc {
     max-height: 80%;
   }
@@ -28,7 +38,7 @@
   align-items: center;
   background-color: #43454d;
   border-radius: 4px;
-  box-shadow: 0px 0px 6px 1px #16171a inset, 0px 0px 10px 6px #f9faf0;
+  box-shadow: 0px 0px 6px 1px #16171a inset, 0px 0px 12px 8px #f9faf0;
   display: flex;
   flex: 1 1 auto;
   flex-flow: row wrap;
@@ -36,10 +46,41 @@
   padding: 10px;
 }
 
+@media (orientation: landscape) and (max-width: 768px) {
+  .pads {
+    box-shadow: 0px 0px 6px 1px #16171a inset, 0px 0px 8px 5px #f9faf0;
+  }
+}
+
 .display {
+  background-color: #586066;
+  border-top: 15px solid #43454d;
+  border-right: 45px solid #43454d;
+  border-bottom: 30px solid #43454d;
+  border-left: 45px solid #43454d;
+  border-radius: 4px;
+  box-shadow: 0px 0px 6px 1px #16171a inset, 0px 0px 12px 8px #f9faf0;
+  box-sizing: border-box;
+  color: #9fe30b;
   font-family: 'Press Start 2P';
   margin-bottom: 20px;
+  padding: 20px;
+  text-align: right;
   width: 100%;
+}
+
+@media (orientation: landscape) and (max-width: 768px) {
+  .display {
+    background-color: #586066;
+    border-top: 6px solid #43454d;
+    border-right: 18px solid #43454d;
+    border-bottom: 12px solid #43454d;
+    border-left: 18px solid #43454d;
+    box-shadow: 0px 0px 6px 1px #16171a inset, 0px 0px 8px 5px #f9faf0;
+
+    margin-bottom: 10px;
+    padding: 10px;
+  }
 }
 
 .drum-pad {
