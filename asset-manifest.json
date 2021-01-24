@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/react-mpc/static/css/main.027bce7e.chunk.css",
-    "main.js": "/react-mpc/static/js/main.e8eda0b1.chunk.js",
-    "main.js.map": "/react-mpc/static/js/main.e8eda0b1.chunk.js.map",
-    "runtime-main.js": "/react-mpc/static/js/runtime-main.b3091a00.js",
-    "runtime-main.js.map": "/react-mpc/static/js/runtime-main.b3091a00.js.map",
-    "static/js/2.6bb05128.chunk.js": "/react-mpc/static/js/2.6bb05128.chunk.js",
-    "static/js/2.6bb05128.chunk.js.map": "/react-mpc/static/js/2.6bb05128.chunk.js.map",
+    "main.css": "/react-mpc/static/css/main.4ca02362.chunk.css",
+    "main.js": "/react-mpc/static/js/main.7e42555b.chunk.js",
+    "main.js.map": "/react-mpc/static/js/main.7e42555b.chunk.js.map",
+    "runtime-main.js": "/react-mpc/static/js/runtime-main.fb22df66.js",
+    "runtime-main.js.map": "/react-mpc/static/js/runtime-main.fb22df66.js.map",
+    "static/js/2.55000808.chunk.js": "/react-mpc/static/js/2.55000808.chunk.js",
+    "static/js/2.55000808.chunk.js.map": "/react-mpc/static/js/2.55000808.chunk.js.map",
     "index.html": "/react-mpc/index.html",
-    "precache-manifest.b698c134165d84d3d25b99ae9554531c.js": "/react-mpc/precache-manifest.b698c134165d84d3d25b99ae9554531c.js",
-    "service-worker.js": "/react-mpc/service-worker.js",
-    "static/css/main.027bce7e.chunk.css.map": "/react-mpc/static/css/main.027bce7e.chunk.css.map",
-    "static/media/hihat-close.mp3": "/react-mpc/static/media/hihat-close.1d55920d.mp3",
-    "static/media/hihat-open.mp3": "/react-mpc/static/media/hihat-open.69cccb3e.mp3",
-    "static/media/hit-1.mp3": "/react-mpc/static/media/hit-1.dac059d5.mp3",
-    "static/media/hit-2.mp3": "/react-mpc/static/media/hit-2.69fc0a5d.mp3",
-    "static/media/kick-1.mp3": "/react-mpc/static/media/kick-1.cc761da2.mp3",
-    "static/media/kick-2.mp3": "/react-mpc/static/media/kick-2.77b36c98.mp3",
-    "static/media/snare-1.mp3": "/react-mpc/static/media/snare-1.1c01e90f.mp3",
-    "static/media/snare-2.mp3": "/react-mpc/static/media/snare-2.e9f80a76.mp3",
-    "static/media/trumpet.mp3": "/react-mpc/static/media/trumpet.a3c6c90d.mp3"
+    "static/css/main.4ca02362.chunk.css.map": "/react-mpc/static/css/main.4ca02362.chunk.css.map",
+    "static/js/2.55000808.chunk.js.LICENSE.txt": "/react-mpc/static/js/2.55000808.chunk.js.LICENSE.txt",
+    "static/media/hihat-close.0de29f5b.mp3": "/react-mpc/static/media/hihat-close.0de29f5b.mp3",
+    "static/media/hihat-open.2c199113.mp3": "/react-mpc/static/media/hihat-open.2c199113.mp3",
+    "static/media/hit-1.22a79c3d.mp3": "/react-mpc/static/media/hit-1.22a79c3d.mp3",
+    "static/media/hit-2.eb18af65.mp3": "/react-mpc/static/media/hit-2.eb18af65.mp3",
+    "static/media/kick-1.b3cb91bd.mp3": "/react-mpc/static/media/kick-1.b3cb91bd.mp3",
+    "static/media/kick-2.5737acf1.mp3": "/react-mpc/static/media/kick-2.5737acf1.mp3",
+    "static/media/snare-1.89dba158.mp3": "/react-mpc/static/media/snare-1.89dba158.mp3",
+    "static/media/snare-2.88287c7f.mp3": "/react-mpc/static/media/snare-2.88287c7f.mp3",
+    "static/media/trumpet.4e01a247.mp3": "/react-mpc/static/media/trumpet.4e01a247.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3091a00.js",
-    "static/js/2.6bb05128.chunk.js",
-    "static/css/main.027bce7e.chunk.css",
-    "static/js/main.e8eda0b1.chunk.js"
+    "static/js/runtime-main.fb22df66.js",
+    "static/js/2.55000808.chunk.js",
+    "static/css/main.4ca02362.chunk.css",
+    "static/js/main.7e42555b.chunk.js"
   ]
 }
